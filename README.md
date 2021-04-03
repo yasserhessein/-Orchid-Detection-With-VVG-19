@@ -10,9 +10,12 @@ VGG19 is a variant of VGG model which in short consists of 19 layers (16 convolu
 
 Dataset used :
 
-1-4000 train data without background + augmentation (800 image/genus)
-2-2500 test data (500 image/genus)
-3-185 test data from internet (25 cattleya and 40 other genus)
+1-4000 train data without background + augmentation (800 image/genus).
+
+2-2500 test data (500 image/genus).
+
+3-185 test data from internet (25 cattleya and 40 other genus).
+
 
 
 
